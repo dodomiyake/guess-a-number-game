@@ -1,10 +1,10 @@
-# Guess the Number Game
+# Guess a Number Game
 
-Welcome to the "Guess the Number" game! This simple and engaging game challenges you to guess a randomly generated number within a specified range.
+Welcome to the "Guess a Number" game! This simple and engaging game challenges you to guess a randomly generated number within a specified range.
 
 ## How to Play
 
-1. Open the [Guess the Number Game](index.html) in your web browser.
+1. Open the [Guess a Number Game](index.html) in your web browser.
 2. Enter your guess in the input field.
 3. Click the "Submit Guess" button to check your guess.
 4. Receive feedback on whether your guess is too high, too low, or correct.
@@ -33,5 +33,5 @@ Clone the repository and open the `index.html` file in your web browser to start
 
 ```bash
 git clone https://github.com/yourusername/guess-the-number-game.git
-cd guess-the-number-game
+cd guess-a-number-game
 ```
