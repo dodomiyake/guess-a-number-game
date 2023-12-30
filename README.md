@@ -1,1 +1,37 @@
-# guess-a-number-game
+# Guess the Number Game
+
+Welcome to the "Guess the Number" game! This simple and engaging game challenges you to guess a randomly generated number within a specified range.
+
+## How to Play
+
+1. Open the [Guess the Number Game](index.html) in your web browser.
+2. Enter your guess in the input field.
+3. Click the "Submit Guess" button to check your guess.
+4. Receive feedback on whether your guess is too high, too low, or correct.
+5. Continue guessing until you correctly identify the random number.
+
+## Features
+
+- **Randomly Generated Number:** The game generates a random number between 1 and 100 for you to guess.
+- **Feedback:** Receive feedback on each guess to guide you in finding the correct number.
+- **Attempts Counter:** Keep track of the number of attempts it takes to guess the correct number.
+- **Responsive Design:** Play the game on various devices with a responsive and user-friendly design.
+
+## Screenshots
+
+![Game Screenshot](screenshot.png)
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+
+Clone the repository and open the `index.html` file in your web browser to start playing.
+
+```bash
+git clone https://github.com/yourusername/guess-the-number-game.git
+cd guess-the-number-game
+```
