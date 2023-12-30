@@ -19,7 +19,8 @@ Welcome to the "Guess a Number" game! This simple and engaging game challenges y
 
 ## Screenshots
 
-![Game Screenshot](screenshot.png)
+![image](https://github.com/dodomiyake/guess-a-number-game/assets/70576110/b64814fe-b2bb-4667-9cf8-3aa1733dc249)
+
 
 ## Technologies Used
 
